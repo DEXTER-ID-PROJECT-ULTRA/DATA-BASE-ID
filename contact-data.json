@@ -1,1 +1,14 @@
-{}
+{
+  "contacts": [
+    {
+      "name": "John Doe",
+      "phoneNumber": "1234567890",
+      "count": 1
+    },
+    {
+      "name": "Jane Smith",
+      "phoneNumber": "9876543210",
+      "count": 2
+    }
+  ]
+}
